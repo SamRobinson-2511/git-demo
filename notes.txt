@@ -1,0 +1,10 @@
+Git Commands: 
+
+clone -> bring a repository that is hosted somewhere like Github into a local folder
+add -> track files and changes in Git 
+commit -> save your files in git 
+push -> upload Git commits to Github
+pull -> download changes from remote repo, opposite of push 
+
+git add . -> to include all files
+git add <filename> -> track one file 
